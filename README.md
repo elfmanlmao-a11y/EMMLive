@@ -2,7 +2,7 @@
 
 A live map of `gm_bigcity`.
 
-Connect players traverse the city in real time. Tracked position, role, and state,
+Connected players traverse the city in real time. Tracked position, role, and state,
 streamed from the server straight into a browser window you can explore
 on desktop or in VR.
 
